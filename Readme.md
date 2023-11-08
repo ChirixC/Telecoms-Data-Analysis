@@ -14,7 +14,7 @@ El objetivo de este proyecto es realizar un análisis completo del sector de las
 * Las recomendaciones y propuestas de acción para la empresa, considerando sus necesidades, sus expectativas, sus desafíos y sus oportunidades de mejora y crecimiento.
 
 ![Image txt](Utils/rm373batch2-04_v2.jpg)
-## Para realizar este análisis, se utilizarán diversas fuentes de datos, tales como:
+## Para realizar este análisis, se utilizaron fuentes de datos tales como:
 
 * Datos oficiales del sector de las telecomunicaciones en Argentina, obtenidos de organismos públicos como el Ente Nacional de Comunicaciones [(ENACOM)](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/).
 
