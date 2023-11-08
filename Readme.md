@@ -27,11 +27,12 @@ El objetivo de este proyecto es realizar un análisis completo del sector de las
 
 * Técnicas de análisis estadístico, como medidas de tendencia central, dispersión, correlación, regresión, prueba de hipótesis y análisis de varianza.
 
-![Image txt](Utils/rm373batch2-04_v1.jpg)
-El resultado de este proyecto será un informe detallado y una presentación ejecutiva que contengan los hallazgos, conclusiones y recomendaciones del análisis realizado, así como los gráficos, tablas y anexos que respalden y complementen la información presentada.
+**El resultado de este proyecto será un informe detallado y una presentación ejecutiva que contengan los hallazgos, conclusiones y recomendaciones del análisis realizado, así como los gráficos, tablas y anexos que respalden y complementen la información presentada.*
 
 ![Image txt](Utils/rm373batch2-04_v2.jpg)
-## EDA. El análisis se enfocó en responder las siguientes preguntas:
+## EDA. 
+
+#### El análisis se enfocó en responder las siguientes preguntas:
 
 * ¿Cómo ha evolucionado la velocidad de descarga de internet en Argentina en los últimos años?
 * ¿Cómo se distribuyen las conexiones de internet por tipo de tecnología y por provincia en Argentina?
