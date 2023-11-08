@@ -46,7 +46,7 @@ El resultado de este proyecto será un informe detallado y una presentación eje
 * Se interpretaron los resultados obtenidos y se extrajeron conclusiones y recomendaciones para la empresa.
 
 
-* ¿Cómo ha evolucionado la velocidad de descarga de internet en Argentina en los últimos años?
+* #### ¿Cómo ha evolucionado la velocidad de descarga de internet en Argentina en los últimos años?
 
     * Se observó que la velocidad de descarga de internet ha aumentado con el tiempo, pasando de un promedio de 3.5 Mbps en el año 2016 a un promedio de 60 Mbps en el año 2022. Esto se debe al avance tecnológico y a la mejora de la infraestructura de las telecomunicaciones en el país.
 
@@ -54,7 +54,7 @@ El resultado de este proyecto será un informe detallado y una presentación eje
 
     * Se detectaron algunos valores atípicos en la velocidad de descarga de internet, que corresponden a velocidades muy altas (mayores a 100 Mbps) en algunas provincias. Estos valores no son erróneos, sino que se explican por el acceso a tecnologías más avanzadas, como la fibra óptica, que ofrecen velocidades superiores a las habituales. El mayor valor atípico se encontró en Capital Federal, con una velocidad de 182 Mbps.
 
-* ¿Cómo se distribuyen las conexiones de internet por tipo de tecnología y por provincia en Argentina?
+* #### ¿Cómo se distribuyen las conexiones de internet por tipo de tecnología y por provincia en Argentina?
 
     * Se observó que las conexiones de internet por tipo de tecnología han cambiado con el tiempo, siguiendo el desarrollo y la innovación de las telecomunicaciones. Así, se vio que las conexiones de dial up, que son las más antiguas y obsoletas, han disminuido drásticamente, mientras que las conexiones de banda ancha, que son las más modernas y eficientes, han aumentado considerablemente. Dentro de las conexiones de banda ancha, se vio que las tecnologías más utilizadas son el cable modem, la fibra óptica y el wireless, siendo el cable modem la más popular y la fibra óptica la de mayor crecimiento.
     
@@ -62,7 +62,7 @@ El resultado de este proyecto será un informe detallado y una presentación eje
     
     * Se detectaron algunos valores atípicos en el número de conexiones de internet, que corresponden a provincias con un número muy alto o muy bajo de conexiones de algún tipo de tecnología. Estos valores no son erróneos, sino que se explican por la preferencia o la disponibilidad de ciertas tecnologías en algunas provincias. Por ejemplo, se vio que Capital Federal tiene un número muy alto de conexiones de fibra óptica, lo que se debe a que esta tecnología es la más novedosa y la que mejor servicio brinda, y que Capital Federal es la provincia con mayor acceso a esta tecnología.
 
-* ¿Qué tipo de servicio de internet es el más utilizado y el más demandado por los usuarios en Argentina?
+* #### ¿Qué tipo de servicio de internet es el más utilizado y el más demandado por los usuarios en Argentina?
 
     * Se observó que el tipo de servicio de internet más utilizado por los usuarios en Argentina es el de 50 Mbps, seguido por el de 20 Mbps y el de 100 Mbps. Esto se debe a que estos servicios ofrecen una buena relación entre calidad y precio, y que se adaptan a las necesidades y expectativas de la mayoría de los usuarios.
 
@@ -75,7 +75,7 @@ El resultado de este proyecto será un informe detallado y una presentación eje
         * Grupo 3: Usuarios con alto consumo de internet, que utilizan servicios de alta velocidad (entre 50 y 100 Mbps) y que se encuentran principalmente en provincias con mayor acceso y cobertura de internet. Estos usuarios representan el 35% del total de usuarios.
         * Grupo 4: Usuarios con consumo muy alto de internet, que utilizan servicios de muy alta velocidad (mayores a 100 Mbps) y que se encuentran principalmente en Capital Federal. Estos usuarios representan el 10% del total de usuarios.
 
-* ¿Qué nivel de acceso a internet tienen los hogares y los habitantes de Argentina?
+* #### ¿Qué nivel de acceso a internet tienen los hogares y los habitantes de Argentina?
 
     * Se observó que el nivel de acceso a internet por hogar ha aumentado con el tiempo, pasando de un 55% en el año 2016 a un 75% en el año 2022. Esto se debe a que el acceso a internet se ha convertido en una necesidad básica para la mayoría de los hogares, especialmente en el contexto de la pandemia mundial, que ha impulsado el uso de internet para el trabajo, la educación y el entretenimiento.
     
