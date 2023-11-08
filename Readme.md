@@ -3,7 +3,7 @@
 
 ___
 
-### Descripción del proyecto:
+## Descripción del proyecto:
 
 El objetivo de este proyecto es realisar un análisis completo del sector de las telecomunicaciones, específicamente el Internet en Argentina, con el fin de brindar información valiosa a una empresa prestadora de servicios de internet. El análisis abarcará aspectos como:
 
