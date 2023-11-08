@@ -97,9 +97,9 @@ Donde:
 
 Ejemplo de uso:
 
-KPI Fibra Óptica = ((1050 - 1000) / 1000) * 100 = 5%
+KPI Fibra Óptica = ((1030 - 1000) / 1000) * 100 = 3%
 
-Esto indicaría un aumento del 25% en las conexiones de fibra óptica en esa provincia para el próximo trimestre.
+Esto indicaría un aumento del 3% en las conexiones de fibra óptica en esa provincia para el próximo trimestre.
 
 
 ![Image txt](Utils/rm373batch2-04_v2.jpg)
